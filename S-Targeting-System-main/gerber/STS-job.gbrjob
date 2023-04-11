@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "7.0.1"
     },
-    "CreationDate": "2023-04-03T23:21:57+02:00"
+    "CreationDate": "2023-04-05T12:26:27+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "_TS",
-      "GUID": "6054532e-6b69-4636-9164-5f7063625858",
+      "Name": "STS",
+      "GUID": "5354532e-6b69-4636-9164-5f7063625858",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 50.82,
-      "Y": 52.06
+      "X": 42.1,
+      "Y": 56.1
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "\\u0160TS-F_Cu.gbr",
+      "Path": "STS-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "\\u0160TS-B_Cu.gbr",
+      "Path": "STS-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "\\u0160TS-F_Paste.gbr",
+      "Path": "STS-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "\\u0160TS-B_Paste.gbr",
+      "Path": "STS-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "\\u0160TS-F_Silkscreen.gbr",
+      "Path": "STS-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "\\u0160TS-B_Silkscreen.gbr",
+      "Path": "STS-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "\\u0160TS-F_Mask.gbr",
+      "Path": "STS-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "\\u0160TS-B_Mask.gbr",
+      "Path": "STS-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "\\u0160TS-Edge_Cuts.gbr",
+      "Path": "STS-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

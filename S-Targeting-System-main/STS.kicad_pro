@@ -34,7 +34,7 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.1,
+          "drill": 0.0,
           "height": 2.0,
           "width": 2.0
         },
@@ -50,7 +50,21 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_issues|107242250|81280000|77d5f8eb-145c-4aa7-8078-2f5f30e8a29c|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|130246250|78843000|7d0912be-2143-4fdb-9fe2-ce5134146edc|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|131146250|78843000|7d0912be-2143-4fdb-9fe2-ce5134146edc|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|132127938|95000000|0516a6c2-472e-4004-b5cd-c85bb648324e|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|104862500|112100000|b033b9e8-713e-410a-ba48-cc7f8a26f247|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|110950000|60176249|9826bc28-8d9b-4f08-9a88-8a455336c78c|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|115700000|60176249|9826bc28-8d9b-4f08-9a88-8a455336c78c|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|121950000|60276249|eed8b630-ae65-4780-b794-e19cd0761936|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|125827500|60401249|eed8b630-ae65-4780-b794-e19cd0761936|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|133000000|60301249|9fbb29ef-ce1f-4260-96a3-8a5e4f6baa2f|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|136115000|60376249|9fbb29ef-ce1f-4260-96a3-8a5e4f6baa2f|00000000-0000-0000-0000-000000000000",
+        "unconnected_items|113540000|63900000|3c17cd7c-24da-489e-874c-a5cc62396c54|145ec3e6-5f0f-470c-86ed-5718188e0871",
+        "unconnected_items|113540000|63900000|5f8157a3-4d8f-4861-903a-ce1b4787face|145ec3e6-5f0f-470c-86ed-5718188e0871"
+      ],
       "meta": {
         "version": 2
       },
