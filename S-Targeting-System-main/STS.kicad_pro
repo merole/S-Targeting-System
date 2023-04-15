@@ -35,7 +35,7 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.0,
+          "height": 4.0,
           "width": 2.0
         },
         "silk_line_width": 0.15,
@@ -56,7 +56,6 @@
         "lib_footprint_issues|131146250|78843000|7d0912be-2143-4fdb-9fe2-ce5134146edc|00000000-0000-0000-0000-000000000000",
         "lib_footprint_issues|132127938|95000000|0516a6c2-472e-4004-b5cd-c85bb648324e|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|104862500|112100000|b033b9e8-713e-410a-ba48-cc7f8a26f247|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|110950000|60176249|9826bc28-8d9b-4f08-9a88-8a455336c78c|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|115700000|60176249|9826bc28-8d9b-4f08-9a88-8a455336c78c|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|121950000|60276249|eed8b630-ae65-4780-b794-e19cd0761936|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|125827500|60401249|eed8b630-ae65-4780-b794-e19cd0761936|00000000-0000-0000-0000-000000000000",
@@ -410,7 +409,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ŠTS.kicad_pro",
+    "filename": "STS.kicad_pro",
     "version": 1
   },
   "net_settings": {

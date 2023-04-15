@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 31,
-    "active_layer_preset": "All Layers",
+    "active_layer": 55,
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -65,11 +65,11 @@
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "800f0ff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "ŠTS.kicad_prl",
+    "filename": "STS.kicad_prl",
     "version": 3
   },
   "project": {
