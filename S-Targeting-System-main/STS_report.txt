@@ -1,25 +1,25 @@
 PCB statistics report
 =====================
-- Date: 10-Apr-23 17:34:37
-- Project: STS
+- Date: 4/24/2023 4:39:37 PM
+- Project: _autosave-STS
 - Board name: STS
 
 Board
 -----
-- Width: 42.0000 mm
-- Height: 56.0000 mm
-- Area: 2352.0000 mm²
+- Width: 42.4000 mm
+- Height: 56.6000 mm
+- Area: 2399.8400 mm²
 
 Pads
 ----
-- Through hole: 70
-- SMD: 4
+- Through hole: 53
+- SMD: 22
 - Connector: 0
 - NPTH: 2
 
 Vias
 ----
-- Through vias: 1
+- Through vias: 5
 - Blind/buried: 0
 - Micro vias: 0
 
@@ -28,19 +28,17 @@ Components
 
 |              | Front Side | Back Side | Total |
 |--------------|------------|-----------|-------|
-|THT:          |          9 |         2 |    11 |
+|THT:          |          3 |         2 |     5 |
 |SMD:          |          0 |         1 |     1 |
-|Unspecified:  |          2 |         2 |     4 |
-|Total:        |         11 |         5 |    16 |
+|Unspecified:  |          6 |        16 |    22 |
+|Total:        |          9 |        19 |    28 |
 
 Drill holes
 -----------
 
 | Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
 |-------|-------|-----------|-----------|--------|---------|-------------|------------|
-|    45 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    36 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
 |    17 | Round | 0.7620 mm | 0.7620 mm |    PTH |     Pad |        F.Cu |       B.Cu |
-|     4 | Round | 0.9000 mm | 0.9000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
-|     4 | Round | 1.1000 mm | 1.1000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     5 | Round | 0.3000 mm | 0.3000 mm |    PTH |     Via |        F.Cu |       B.Cu |
 |     2 | Round | 2.2000 mm | 2.2000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
-|     1 | Round | 0.4000 mm | 0.4000 mm |    PTH |     Via |        F.Cu |       B.Cu |
